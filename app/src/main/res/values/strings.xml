@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment12</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_label">name_label</string>
+    <string name="email_label">email_label</string>
+    <string name="password_label">password_label</string>
+    <string name="submit_label">submit</string>
+    <string name="cancel_label">cancel</string>
+    <string name="login_label">Login</string>
+    <string name="create_account_label">Create Account</string>
+</resources>
